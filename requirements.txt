@@ -1,0 +1,9 @@
+google-generativeai
+datasets
+sentence-transformers
+faiss-cpu
+python-dotenv
+pandas
+numpy
+tqdm
+streamlit

@@ -1,4 +1,4 @@
-google-generativeai
+google-genai
 datasets
 sentence-transformers
 faiss-cpu
